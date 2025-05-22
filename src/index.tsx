@@ -4,7 +4,7 @@ import App from './App';
 
 const theme = createTheme({
   palette: {
-    mode: 'dark', // oder 'light'
+    mode: 'dark', 
   },
 });
 
